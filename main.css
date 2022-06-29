@@ -1,0 +1,12 @@
+.container{
+    background-color: greenyellow;
+    width: 500px;
+    height:300px;
+    margin-left: 600px;
+}
+.GrpCtn{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
